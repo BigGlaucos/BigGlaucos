@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IluvTheSuns2&show_icons=true&theme=radical)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IluvTheSuns2&layout=compact)](https://github.com/IluvTheSuns2/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IluvTheSuns2)](https://github.com/IluvTheSuns2/github-readme-stats)
 
 
