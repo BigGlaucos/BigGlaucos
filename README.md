@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 
 
-![Snake animation](https://github.com/kevinLyf/kevinLyf/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/IluvTheSuns2/IluvTheSuns2/blob/output/github-contribution-grid-snake.svg)
