@@ -19,7 +19,7 @@
 
 
 <a href="https://github.com/BigGlaucos">
- <img    src="https://github-readme-streak-stats.herokuapp.com/?user=BigGlaucos&theme=react&hide_border=true&card_width=500"> 
+ <img    src="https://github-readme-streak-stats.herokuapp.com/?user=BigGlaucos&theme=react&hide_border=true&card_width=400"> 
 </a>
 
 <a href="https://github.com/BigGlaucos">
