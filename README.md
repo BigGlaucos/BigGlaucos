@@ -17,7 +17,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BigGlaucos&theme=radical&show_icons=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BigGlaucos&layout=compact&langs_count=7&theme=radical"/>
 
-
+https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white
 
 ### Tecnologias que estou estudando no momento 📚 
 <div style="display: inline_block">
@@ -26,4 +26,5 @@
   <img    src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   <img    src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img    src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img    src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" />
 </div>
