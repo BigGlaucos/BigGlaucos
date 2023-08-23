@@ -1,4 +1,3 @@
-###                                                                        Hi there 👋
 
 <!--
 
@@ -12,7 +11,9 @@
 - 😄 Pronouns: your choise i don't realy mind that
 - ⚡ Fun fact: My name can mean a greenish blue
 -->
-<divd style="display:flex">
+                                                                   
+ <h1 align="center"> Hi there 👋 </h1>
+<div style="display:flex">
 <a href="https://github.com/BigGlaucos">
  <img    src="https://github-readme-stats.vercel.app/api?username=BigGlaucos&theme=react&show_icons=true&hide_border=true&count_private=true&card_width=300"> 
 </a>
