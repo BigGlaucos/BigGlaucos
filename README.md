@@ -14,7 +14,7 @@
 
 -->
   <a href="https://github.com/BigGlaucos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BigGlaucos&theme=radical&show_icons=true">
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={BigGlaucos}&theme={github_dark}">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BigGlaucos&layout=compact&langs_count=7&theme=radical"/>
 
 
