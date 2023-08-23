@@ -30,7 +30,7 @@
 
 
 
-### Tecnologias que estou estudando no momento 📚 
+<h1 align="center"> Tecnologias que estou estudando no momento 📚 </h1> 
 <div style="display: inline_block">
   <img    src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img    src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
