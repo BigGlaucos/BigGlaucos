@@ -1,7 +1,7 @@
 ###                                                                        Hi there 👋
 
 <!--
-**IluvTheSuns2/IluvTheSuns2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 - 🔭 I’m currently working on TechBrudtland,BBTECH,SENAI
 - 🌱 I’m currently learning Javascript,Java
@@ -23,7 +23,7 @@
 </a>
 
 <a href="https://github.com/BigGlaucos">
- <img    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BigGlaucos&theme=react&show_icons=true&hide_border=true&layout=compact&&card_width=968"> 
+ <img    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BigGlaucos&theme=react&show_icons=true&hide_border=true&layout=compact"> 
 </a>
 </div>
 
