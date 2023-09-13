@@ -15,7 +15,7 @@
  <h1 align="center"> Hi there 👋 </h1>
 <div style="display:flex">
 <a href="https://github.com/BigGlaucos">
- <img    src="https://github-readme-stats.vercel.app/api?username=BigGlaucos&theme=react&show_icons=true&hide_border=true&count_private=true&card_width=300"> 
+ <img    src="https://github.com/PencilNavigator/readme-stats-URL//api?username=BigGlaucos&theme=react&show_icons=true&hide_border=true&count_private=true&card_width=300"> 
 </a>
 
 
@@ -24,7 +24,7 @@
 </a>
 
 <a href="https://github.com/BigGlaucos">
- <img    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BigGlaucos&theme=react&show_icons=true&hide_border=true&layout=compact&card_width=966"> 
+ <img    src="https://github.com/PencilNavigator/readme-stats-URL//api/top-langs/?username=BigGlaucos&theme=react&show_icons=true&hide_border=true&layout=compact&card_width=966"> 
 </a>
 </div>
 
