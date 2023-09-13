@@ -15,7 +15,12 @@
  <h1 align="center"> Hi there 👋 </h1>
 <div style="display:flex">
 <a href="https://github.com/BigGlaucos">
- <img    src="https://github.com/PencilNavigator/readme-stats-URL//api?username=BigGlaucos&theme=react&show_icons=true&hide_border=true&count_private=true&card_width=300"> 
+<img src="https://github-readme-stats.vercel.app/api?username=BigGlaucos&layout=compact&langs_count=7&theme=dark&card_width=420" />
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BigGlaucos&theme=react&show_icons=true&hide_border=true&count_private=true&card_width=420)
+
+  
 </a>
 
 
@@ -30,7 +35,7 @@
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BigGlaucos&theme=react&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&card_width=1020&theme=react&hide_border=true&)
 
 <h1 align="center"> Tecnologias que estou estudando no momento 📚 </h1> 
 <div style="display: inline_block">
