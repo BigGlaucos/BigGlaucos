@@ -22,12 +22,16 @@
 
 <a href="https://github.com/BigGlaucos">
   <img    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&card_width=1020&theme=react&hide_border=true&"> 
-
 </a>
+
 </div>
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BigGlaucos&theme=react&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<a href="https://github.com/BigGlaucos">
+  <img src="https://camo.githubusercontent.com/3b0449a7982b723cf3ca96a0881e8130f125c43a1d25e5d6cf78c8f6e4465e6a/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6b6576696e4c796626636f6c6f723d626c7565267374796c653d666c617429" data-canonical-src="https://komarev.com/ghpvc/?username=BigGlaucos&amp;color=blue&amp;style=flat)" style="max-width: 100%;">
+</a>
 
 <h1 align="center"> Tecnologias que estou estudando no momento 📚 </h1> 
 <div style="display: inline_block">
